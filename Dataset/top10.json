@@ -1,0 +1,62 @@
+[
+  {
+    "rank": 1,
+    "sku": 42358001,
+    "count": 389613,
+    "name": "2.00% Milk"
+  },
+  {
+    "rank": 2,
+    "sku": 42360001,
+    "count": 389399,
+    "name": "Whole Milk Milk"
+  },
+  {
+    "rank": 3,
+    "sku": 42357001,
+    "count": 389389,
+    "name": "2.00% Milk"
+  },
+  {
+    "rank": 4,
+    "sku": 42355001,
+    "count": 388422,
+    "name": "1.00% Milk"
+  },
+  {
+    "rank": 5,
+    "sku": 42359001,
+    "count": 388176,
+    "name": "Whole Milk Milk"
+  },
+  {
+    "rank": 6,
+    "sku": 42356001,
+    "count": 387894,
+    "name": "1.00% Milk"
+  },
+  {
+    "rank": 7,
+    "sku": 42313001,
+    "count": 137772,
+    "name": "Jelly Grape"
+  },
+  {
+    "rank": 8,
+    "sku": 42311001,
+    "count": 137540,
+    "name": "Jam Grape"
+  },
+  {
+    "rank": 9,
+    "sku": 42314001,
+    "count": 137457,
+    "name": "Squeeze Jelly Grape"
+  },
+  {
+    "rank": 10,
+    "sku": 42312001,
+    "count": 137002,
+    "name": "Jam Strawberry"
+  }
+]
